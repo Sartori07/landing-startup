@@ -81,7 +81,7 @@ a {
     left: 0;
     right: 0;
     width: 100%;
-    border: 1px solid var(--light-gray-collor);
+    border: 0.1rem solid var(--light-gray-collor);
 }
 
 .menu-content {
