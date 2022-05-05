@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+:root {
+    --primary-color: #330033;
+    --secondary-color: crimson;
+    --white-color:#FFFFFF;
+    --light-gray-collor:#EEEEEE;
+    --gap: 3rem;
+}
+>>>>>>> d57ae7c536839ed6189e8f4da1790abae2e74603
 
 * {
     margin: 0;

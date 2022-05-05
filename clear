@@ -1,0 +1,78 @@
+[33mcommit 7298220e384b929eac6d2fcc386955f208b3dd30[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Wed May 4 16:52:45 2022 -0400
+
+    split css
+
+[33mcommit 66dda379c606ef54133f7c5d9b58b2daec3dacd8[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Tue Apr 19 16:45:51 2022 -0400
+
+    Css fix
+
+[33mcommit 2a25b6c79c9257976b0be904339b852a418292e4[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Wed Apr 6 10:53:02 2022 -0400
+
+    Menu Developing
+
+[33mcommit a21d1dbff71ce85e671b323276147c3002c5fb36[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Wed Apr 6 10:47:46 2022 -0400
+
+    Merge branch 'main' of https://github.com/Sartori07/landing-startup
+
+[33mcommit 2bfe8f409b273ff3e37c8745f9827b28f70f1945[m
+Author: labmakerms <lean.sartori@livinglabms.com.br>
+Date:   Tue Apr 5 18:09:27 2022 -0400
+
+    Variables set on CSS
+
+[33mcommit a05c1e9f0f32424f7e1378762a0768e67d51f7f0[m
+Merge: 5434a01 7b2a42e
+Author: labmakerms <lean.sartori@livinglabms.com.br>
+Date:   Tue Apr 5 18:03:45 2022 -0400
+
+    Merge branch 'main' of https://github.com/Sartori07/landing-startup
+
+[33mcommit 5434a01aeb647bf44f5ac5265e7d1a8251ec7573[m
+Author: labmakerms <lean.sartori@livinglabms.com.br>
+Date:   Tue Apr 5 18:00:15 2022 -0400
+
+    Viewport CSS
+
+[33mcommit 7b2a42e5a91120e913e766c8f975b9151dee0ab0[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Thu Mar 24 23:38:48 2022 -0400
+
+    access allowed for my main PC
+
+[33mcommit aa09e5d8d35857ed4a08152e67abfa3e9d091461[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Wed Mar 23 16:27:19 2022 -0400
+
+    ready for development
+
+[33mcommit 5e2cb5dba61fff31f146ba85ce49b0a677bb7246[m
+Author: Sartori07 <68125784+Sartori07@users.noreply.github.com>
+Date:   Wed Mar 23 16:12:55 2022 -0400
+
+    Test by Github
+
+[33mcommit c61d29f486da819578e0c5d3373ab41df4a9ea20[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Wed Mar 23 16:03:37 2022 -0400
+
+    css setup
+
+[33mcommit b1126d3159d67692dfb16f41e0eb2be36be6136a[m
+Author: Sartori07 <sartori.lean@gmail.com>
+Date:   Wed Mar 23 15:58:52 2022 -0400
+
+    Initial setup
+
+[33mcommit 02e6716978d385973d55ff5bd15f7ce148067f2f[m
+Author: Sartori07 <68125784+Sartori07@users.noreply.github.com>
+Date:   Wed Mar 23 15:17:38 2022 -0400
+
+    Initial commit
